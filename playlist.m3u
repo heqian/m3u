@@ -1,59 +1,60 @@
 #EXTM3U
 
-#EXTINF:-1,CCTV1
-http://125.210.158.10:8060/live/CCTV1HD_H265.m3u8
-#EXTINF:-1,CCTV2
-http://125.210.158.10:8060/live/CCTV2HD_H265.m3u8
-#EXTINF:-1,CCTV3
-http://125.210.158.10:8060/live/CCTV3HD_H265.m3u8
-#EXTINF:-1,CCTV5
-http://125.210.158.10:8060/live/CCTV5HD_H265.m3u8
-#EXTINF:-1,CCTV6
-http://125.210.158.10:8060/live/CCTV6HD_H265.m3u8
-#EXTINF:-1,CCTV7
-http://125.210.158.10:8060/live/CCTV7HD_H265.m3u8
-#EXTINF:-1,CCTV8
-http://125.210.158.10:8060/live/CCTV8HD_H265.m3u8
-#EXTINF:-1,CCTV10
-http://125.210.158.10:8060/live/CCTV10HD_H265.m3u8
-#EXTINF:-1,CCTV12
-http://125.210.158.10:8060/live/CCTV12HD_H265.m3u8
-#EXTINF:-1,CCTV14
-http://125.210.158.10:8060/live/CCTV14HD_H265.m3u8
+#EXTINF:-1,CCTV 1
+http://113.142.90.138:80/chinanet4-live.bestvcdn.com.cn/live/program/live/cctv1hd/4000000/d1.m3u8
+#EXTINF:-1,CCTV 3
+http://113.142.90.138:80/chinanet4-live.bestvcdn.com.cn/live/program/live/cctv3hd/4000000/d1.m3u8
+#EXTINF:-1,CCTV 5
+http://113.142.90.138:80/chinanet4-live.bestvcdn.com.cn/live/program/live/cctv5hd/4000000/d1.m3u8
+#EXTINF:-1,CCTV 5+
+http://113.142.90.138:80/chinanet4-live.bestvcdn.com.cn/live/program/live/cctv5phd/4000000/d1.m3u8
+#EXTINF:-1,CCTV 6
+http://113.142.90.138:80/chinanet4-live.bestvcdn.com.cn/live/program/live/cctv6hd/4000000/d1.m3u8
+#EXTINF:-1,CCTV 8
+http://113.142.90.138:80/chinanet4-live.bestvcdn.com.cn/live/program/live/cctv8hd/4000000/d1.m3u8
+#EXTINF:-1,CCTV 10
+http://113.142.90.138:80/chinanet4-live.bestvcdn.com.cn/live/program/live/cctv10hd/4000000/d1.m3u8
 #EXTINF:-1,北京卫视
-http://125.210.152.20:9090/live/BJWSHD_H265.m3u8
-#EXTINF:-1,天津卫视
-http://125.210.152.20:9090/live/TJWSHD_H265.m3u8
+http://113.142.90.138:80/chinanet4-live.bestvcdn.com.cn/live/program/live/bjwshd/4000000/d1.m3u8
 #EXTINF:-1,东方卫视
-http://125.210.152.20:9090/live/DFWSHD_H265.m3u8
-#EXTINF:-1,湖南卫视
-http://125.210.152.20:9090/live/HNWSHD_H265.m3u8
-#EXTINF:-1,浙江卫视
-http://125.210.152.20:9090/live/ZJWSHD_H265.m3u8
-#EXTINF:-1,江苏卫视
-http://125.210.152.20:9090/live/JSWSHD_H265.m3u8
-#EXTINF:-1,山东卫视
-http://125.210.152.20:9090/live/SDWSHD_H265.m3u8
-#EXTINF:-1,广东卫视
-http://125.210.152.20:9090/live/GDWSHD_H265.m3u8
-#EXTINF:-1,深圳卫视
-http://125.210.152.20:9090/live/SZWSHD_H265.m3u8
-#EXTINF:-1,安徽卫视
-http://125.210.152.20:9090/live/AHWSHD_H265.m3u8
-#EXTINF:-1,四川卫视
-http://125.210.152.20:9090/live/SCWSHD_H265.m3u8
-#EXTINF:-1,河北卫视
-http://125.210.152.20:9090/live/HBWSHD_H265.m3u8
+http://113.142.90.138:80/chinanet4-live.bestvcdn.com.cn/live/program/live/dfwshd/4000000/d1.m3u8
 #EXTINF:-1,东南卫视
-http://125.210.152.20:9090/live/DNWSHD_H265.m3u8
-#EXTINF:-1,河南卫视
-http://125.210.152.20:9090/live/HNWSHD_H265.m3u8
-#EXTINF:-1,江西卫视
-http://125.210.152.20:9090/live/JXWSHD_H265.m3u8
-#EXTINF:-1,贵州卫视
-http://125.210.152.20:9090/live/GZWSHD_H265.m3u8
+http://113.142.90.138:80/chinanet4-live.bestvcdn.com.cn/live/program/live/dnwshd/4000000/d1.m3u8
+#EXTINF:-1,广东卫视
+http://113.142.90.138:80/chinanet4-live.bestvcdn.com.cn/live/program/live/gdwshd/4000000/d1.m3u8
 #EXTINF:-1,黑龙江卫视
-http://125.210.152.20:9090/live/HLJWSHD_H265.m3u8
-#EXTINF:-1,吉林卫视
-http://125.210.152.20:9090/live/JLWSHD_H265.m3u8
-辽宁卫视,http://125.210.152.20:9090/live/LNWSHD_H265.m3u8
+http://113.142.90.138:80/chinanet4-live.bestvcdn.com.cn/live/program/live/hljwshd/4000000/d1.m3u8
+#EXTINF:-1,湖北卫视
+http://113.142.90.138:80/chinanet4-live.bestvcdn.com.cn/live/program/live/hbwshd/4000000/d1.m3u8
+#EXTINF:-1,湖南卫视
+http://113.142.90.138:80/chinanet4-live.bestvcdn.com.cn/live/program/live/hnwshd/4000000/d1.m3u8
+#EXTINF:-1,江苏卫视
+http://113.142.90.138:80/chinanet4-live.bestvcdn.com.cn/live/program/live/jswshd/4000000/d1.m3u8
+#EXTINF:-1,辽宁卫视
+http://113.142.90.138:80/chinanet4-live.bestvcdn.com.cn/live/program/live/lnwshd/4000000/d1.m3u8
+#EXTINF:-1,山东卫视
+http://113.142.90.138:80/chinanet4-live.bestvcdn.com.cn/live/program/live/sdwshd/4000000/d1.m3u8
+#EXTINF:-1,深圳卫视
+http://113.142.90.138:80/chinanet4-live.bestvcdn.com.cn/live/program/live/szwshd/4000000/d1.m3u8
+#EXTINF:-1,天津卫视
+http://113.142.90.138:80/chinanet4-live.bestvcdn.com.cn/live/program/live/tjwshd/4000000/d1.m3u8
+#EXTINF:-1,浙江卫视
+http://113.142.90.138:80/chinanet4-live.bestvcdn.com.cn/live/program/live/zjwshd/4000000/d1.m3u8
+#EXTINF:-1,上海新闻综合 HD
+http://113.142.90.138:80/chinanet4-live.bestvcdn.com.cn/live/program/live/xwzhhd/4000000/d1.m3u8
+#EXTINF:-1,上海第一财经 HD
+http://113.142.90.138:80/chinanet4-live.bestvcdn.com.cn/live/program/live/dycjhd/4000000/d1.m3u8
+#EXTINF:-1,上海电视剧 HD
+http://113.142.90.138:80/chinanet4-live.bestvcdn.com.cn/live/program/live/dsjpdhd/4000000/d1.m3u8
+#EXTINF:-1,上海纪实 HD
+http://113.142.90.138:80/chinanet4-live.bestvcdn.com.cn/live/program/live/jspdhd/4000000/d1.m3u8
+#EXTINF:-1,上海都市 HD
+http://113.142.90.138:80/chinanet4-live.bestvcdn.com.cn/live/program/live/ylpdhd/4000000/d1.m3u8
+#EXTINF:-1,上海外语 HD
+http://113.142.90.138:80/chinanet4-live.bestvcdn.com.cn/live/program/live/wypdhd/4000000/d1.m3u8
+#EXTINF:-1,五星体育 HD
+http://113.142.90.138:80/chinanet4-live.bestvcdn.com.cn/live/program/live/ssty/4000000/d1.m3u8
+#EXTINF:-1,劲爆体育 HD
+http://113.142.90.138:80/chinanet4-live.bestvcdn.com.cn/live/program/live/jbtyhd/4000000/d1.m3u8
+#EXTINF:-1,NBA4 HD
+http://113.142.90.138:80/chinanet4-live.bestvcdn.com.cn/live/program/live/hdnba4/4000000/d1.m3u8
